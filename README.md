@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bethwel Kiruok</h1>
-<h3 align="center">A passionate full stack developer (Kotlin,SpringBoot, Laravel)</h3>
+<h3 align="center">A passionate web/mobile developer (Kotlin,SpringBoot, Laravel)</h3>
 
 - 🔭 I’m currently working on [kbv2.o](www.kingsbridgemotors.com)
 
