@@ -1,10 +1,15 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Bethwel Kiruok</h1>
+<h3 align="center">A passionate full stack developer (Kotlin,SpringBoot, Laravel)</h3>
 
-🔭 I’m currently working on kbv2.0<br>
-👯 I’m looking to collaborate on any Laravel/SpringBoot/Kotlin projects<br>
-🤝 I’m looking for help with AWS <br>
-🌱 I’m currently learning AWS<br>
-💬 Ask me about Laravel/Kotlin/SpringBoot
+- 🔭 I’m currently working on [kbv2.o](www.kingsbridgemotors.com)
+
+- 🌱 I’m currently learning **React**
+
+- 👯 I’m looking to collaborate on **any laravel/kotlin/spring project**
+
+- 💬 Ask me about **laravel, springboot, kotlin**
+
+- 📫 How to reach me **lancelevis19@gmail.com**
 
 ## 🌐 Socials:
 
